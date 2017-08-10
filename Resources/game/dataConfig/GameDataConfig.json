@@ -1,0 +1,76 @@
+{
+    "adventure_mode": {
+        "level_1": {
+            "probList": [
+                { "id": 151, "prob": 80 },
+                { "id": 153, "prob": 8095 },
+                { "id": 152, "prob": 9599 }
+            ],
+            "numList": [
+                { "feq": 10, "num": 20 },
+                { "feq": 9, "num": 30 },
+                { "feq": 8, "num": 10 }
+            ]
+        },
+        "level_2": {
+             "probList": [
+                { "id": 151, "prob": 80 },
+                { "id": 153, "prob": 8090 },
+                { "id": 152, "prob": 9099 }
+            ],
+            "numList": [
+                { "feq": 10, "num": 25 },
+                { "feq": 9, "num": 35 },
+                { "feq": 8, "num": 15 }
+            ]
+        },
+        "level_3": {
+            "probList": [
+                { "id": 151, "prob": 70 },
+                { "id": 153, "prob": 7090 },
+                { "id": 152, "prob": 9099 }
+            ],
+            "numList": [
+                { "feq": 10, "num": 25 },
+                { "feq": 9, "num": 35 },
+                { "feq": 8, "num": 15 }
+            ]
+        },
+        "level_4": {
+            "probList": [
+                { "id": 151, "prob": 60 },
+                { "id": 153, "prob": 6090 },
+                { "id": 152, "prob": 9099 }
+            ],
+            "numList": [
+                { "feq": 10, "num": 25 },
+                { "feq": 9, "num": 35 },
+                { "feq": 8, "num": 15 }
+            ]
+        },
+        "level_5": {
+            "probList": [
+                { "id": 151, "prob": 60 },
+                { "id": 153, "prob": 6080 },
+                { "id": 152, "prob": 8099 }
+            ],
+            "numList": [
+                { "feq": 10, "num": 30 },
+                { "feq": 9, "num": 40 },
+                { "feq": 8, "num": 20 }
+            ]
+        }
+    },
+    "survival_mode": { 
+            "probList": [
+                { "id": 151, "prob": 70 },
+                { "id": 153, "prob": 7090 },
+                { "id": 152, "prob": 9099 }
+            ],
+            "numList": [
+                { "feq": 10, "num": 20 },
+                { "feq": 9, "num": 30 },
+                { "feq": 8, "num": 10 }
+            ]
+    }
+}

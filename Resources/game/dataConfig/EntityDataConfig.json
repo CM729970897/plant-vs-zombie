@@ -1,0 +1,27 @@
+{
+    "game_entity": {
+        "data": [
+            { "id": 101, "blood": 300, "attack": 24, "speed": 8, "cost": 100, "point": 2 },
+            { "id": 102, "blood": 4000, "attack":0, "speed": 30, "cost": 100, "point": 0 },
+            { "id": 103, "blood": 300, "attack": 2, "speed": 8, "cost": 100, "point": 2 },
+            { "id": 104, "blood": 0, "attack": 0, "speed": 30, "cost": 50, "point": 0 },
+            { "id": 105, "blood": 0, "attack": 0, "speed": 50, "cost": 50, "point": 0 },
+            { "id": 106, "blood": 100, "attack": 4, "speed": 40, "cost": 100, "point": 4 },
+            { "id": 130, "blood": 0, "attack": 0, "speed": 0, "cost": 100, "point": 100 },
+            { "id": 131, "blood": 0, "attack": 30, "speed": 0, "cost": 100, "point": 100 },
+            { "id": 151, "blood": 200, "attack": 100, "speed": 15, "cost": 10, "point": 100 },
+            { "id": 152, "blood": 800, "attack": 100, "speed": 15, "cost": 30, "point": 100 },
+            { "id": 153, "blood": 400, "attack": 100, "speed": 15, "cost": 20, "point": 100 },
+            { "id": 154, "blood": 200, "attack": 100, "speed": 15, "cost": 30, "point": 100 }
+        ]
+    },
+    "derived_entity": {
+        "data": [ 
+            { "id": 201, "power": 50 },
+            { "id": 202, "power": 20 },
+            { "id": 203, "power": 40 },
+            { "id": 204, "power": 10 },
+            { "id": 205, "power": 30 }
+        ]
+    }
+}

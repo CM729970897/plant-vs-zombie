@@ -1,0 +1,9 @@
+{
+	"zombie":
+		[
+			{"name":"zombie","content":"普通僵尸\n韧性：低\n\n这种僵尸喜欢脑髓，贪婪而不\n知足"},
+			{"name":"flag_zombie","content":"摇旗僵尸\n韧性：低\n\n毫无疑问，摇旗僵尸喜欢脑髓，\n私底下他也迷恋旗帜"},
+			{"name":"conehead_zombie","content":"路障僵尸，他的路障头盔，是\n他的坚韧性高于普通僵尸\n韧性：中\n\n和其他僵尸一样，路障僵尸盲\n目地向前"},
+			{"name":"buckethead_zombie","content":"铁通僵尸,它的铁通头盔，能极\n大程度的承受伤害\n韧性:高\n\n铁通僵尸经常戴着水桶，在冷\n漠的世界里面显得独一无二"}
+		]
+}     
