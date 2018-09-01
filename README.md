@@ -29,7 +29,7 @@
 + 本系统用例图
 	![](https://i.imgur.com/P9VZ2IM.png)
 
-### 数据字典
+数据字典
 
 + 用户信息列表：
 
@@ -38,13 +38,12 @@
 
 + 植物信息列表：
 
-![](https://i.imgur.com/fK9iWiF.png)
-
+ ![](https://i.imgur.com/fK9iWiF.png)
 
 	
 + 僵尸信息列表
 
-![](https://i.imgur.com/hGBvpFi.png)
+ ![](https://i.imgur.com/hGBvpFi.png)
 
 
 + 玩家道具信息列表
